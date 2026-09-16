@@ -1,17 +1,17 @@
-# Nome do projeto
+# Recomendação de filmes - Aplicação de aprendizado não supervisionado
 
 ## Introdução
 
-<span style="color:red">**Adicione um texto**</span>
+**Projeto de aplicação de técnicas de aprendizado não supervisionado, com o objetivo de criar um sistema de recomendação de filmes que seja capaz de sugerir filmes para os usuários com base em seus gostos e preferências.**
 
 ## Dados do projeto
 
-<span style="color:red">**Adicione um texto**</span>
+**Os dados base estão na pasta data/raw, com os arquivos link.csv, movies.csv, ratings.csv e tags.csv.**
 
 ### Levantamento inicial
 
 !!! info "Tipo do projeto"
-    - [ ] Análise exploratória
+    - [X] Análise exploratória
     - [ ] Modelo preditivo
     - [ ] Modelo de classificação
     - [ ] Modelo de agrupamento
@@ -20,22 +20,22 @@
 ### Nível de acesso
 
 !!! warning "Confidencialidade"
-    - [ ] Público
+    - [X] Público
     - [ ] Interno (toda a organização)
     - [ ] Restrito (apenas a área requisitante)
 
 ### Objetivos de negócio
 
 !!! quote ""
-    <span style="color:red">**Adicione um texto**</span>
+    <span style="color:black">**O objetivo é aumentar o tempo de tela dos usuários e também o engajamento, para aumento de receita com assinaturas e publicidade. Além disso, o projeto visa melhorar a experiência do usuário indicando filmes mais coerentes para o gosto e preferências dos usuários, o que contribui para a fidelização dos usuários à plataforma.**</span>
 
 ## Sobre o projeto
 
 ### Histórico do documento
 
-| Data       | Versão | Descrição                   | Autor         |
-| :--------- | :----- | :-------------------------- | :------------ |
-| 00/00/0000 | 1.0    | Versão inicial do documento | Nome do autor |
+| Data       | Versão | Descrição                   | Autor              |
+| :--------- | :----- | :-------------------------- | :----------------- |
+| 08/08/2026 | 1.0    | Versão inicial do documento | Luis Helder |
 
 ### Dados do solicitante
 

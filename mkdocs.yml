@@ -1,8 +1,8 @@
-site_name: Nome do projeto
-site_description: Descrição do projeto
-site_url: http://url_do_repositorio
-repo_url: http://url_do_repositorio
-repo_name: nome-do-repositorio
+site_name: Recomendação de Filmes
+site_description: Aplicação de técnicas de aprendizado não supervisionado, com o objetivo de criar um sistema de recomendação de filmes que seja capaz de sugerir filmes para os usuários com base em seus gostos e preferências.
+site_url: https://github.com/LuisHelder/indicacao-de-filmes-aprendizado-nao-supervisionado
+repo_url: https://github.com/LuisHelder/indicacao-de-filmes-aprendizado-nao-supervisionado
+repo_name: indicacao-de-filmes-aprendizado-nao-supervisionado
 
 nav:
   - Descrição do projeto: index.md
